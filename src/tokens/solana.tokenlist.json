@@ -184615,11 +184615,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+    "chainId": 101,
+    "address": "EJMekY6LsmSbUwvmxF5wF9soaxB68AicTSsch5wiqcQ9",
+    "symbol": "GMK",
+    "name": "Gizmo Kaka",
+    "decimals": 9,
+    "logoURI": "https://i.ibb.co/Z6yjXBdf/2.png",
+    "tags": [
+      "meme",
+      "social-token",
+      "community-token",
+      "community"
+    ],
+    "extensions": {
+      "website": "https://gizmokakatoken.com",
+      "twitter": "https://twitter.com/gizmokakatoken",
+      "description": "GMK is a meme coin that blends pop culture, movie legends, and crypto madness into one explosive journey."
     }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 3,
-    "patch": 3
   }
+],
+"version": {
+  "major": 0,
+  "minor": 3,
+  "patch": 3
 }
